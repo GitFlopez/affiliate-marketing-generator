@@ -1,0 +1,10 @@
+{
+  "name": "affiliate-marketing-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: affiliate-marketing-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "marketing"
+  }
+}
